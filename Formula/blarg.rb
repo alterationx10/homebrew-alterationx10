@@ -4,8 +4,8 @@
 class Blarg < Formula
   desc "Some sort of blog engine, maybe?"
   homepage ""
-  url "https://github.com/wishingtreedev/blarg/releases/download/v0.0.1/blarg-linux-x64.zip"
-  sha256 "247b9a20cf1599a941d2afcdbf5d91b18fe1b88473eda78fca18a59e89693cfb"
+  url "https://github.com/wishingtreedev/blarg/releases/download/v0.0.2/blarg-linux-x64.zip"
+  sha256 "40c74505704f4444a2a7ec027bdab49b16c17efc7141c58392d505ae7bfc89bd"
   license "Apache-2.0"
 
 
