@@ -1,4 +1,4 @@
-# Wishingtreedev Wishingtree
+# alterationx10/alterationx10
 
 ## How do I install these formulae?
 
