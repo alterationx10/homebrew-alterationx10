@@ -2,14 +2,14 @@
 
 ## How do I install these formulae?
 
-`brew install wishingtreedev/wishingtree/<formula>`
+`brew install wishingtreedev/alterationx10/<formula>`
 
-Or `brew tap wishingtreedev/wishingtree` and then `brew install <formula>`.
+Or `brew tap alterationx10/alterationx10` and then `brew install <formula>`.
 
 Or, in a [`brew bundle`](https://github.com/Homebrew/homebrew-bundle) `Brewfile`:
 
 ```ruby
-tap "wishingtreedev/wishingtree"
+tap "alterationx10/alterationx10"
 brew "<formula>"
 ```
 
