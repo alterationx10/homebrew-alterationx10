@@ -4,8 +4,8 @@
 class Blarg < Formula
   desc "Some sort of blog engine, maybe?"
   homepage "https://github.com/alterationx10/blarg"
-  url "https://github.com/alterationx10/blarg/releases/download/v0.0.3/blarg-linux-x64-v0.0.3.zip"
-  sha256 "85fb3aca93b28b5fc12c90bd5b7474570601641efcff7fb3d93099b413aeb6cc"
+  url "https://github.com/alterationx10/blarg/releases/download/v0.0.5/blarg-linux-x64-v0.0.5.zip"
+  sha256 "173834296f4903784841bb4562f00a6ffd80d14211665a73bcfcb742a32142d3"
   license "Apache-2.0"
 
   def install
